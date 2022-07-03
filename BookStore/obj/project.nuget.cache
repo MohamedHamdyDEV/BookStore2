@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gh5QM4YB4JCkveeBdM0G3Jph4QALjGMh4BivRI1ctNSaawNxCDTBCw8ncTuzoz+TwloCkuTZL4gKGVLUPvmHA==",
+  "success": false,
+  "projectFilePath": "E:\\ASP\\BookStore\\BookStore\\BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Hamdy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Razor.Desin. No packages exist with this id in source(s): DevExpress 19.1 Local, DevExpress 19.2 Local, DevExpress 20.1 Local, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "Microsoft.AspNetCore.Razor.Desin",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
